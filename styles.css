@@ -31,7 +31,18 @@ p {
 img {
   width: 80%;
 }
+.btn{
 
+  margin: 3% 47%;
+}
+a {
+  color: white;
+  font-family: 'Lobster', cursive;
+}
+a:hover {
+  color:#4ECCA3 ;
+  text-decoration:none;
+}
 footer {
   margin-top: 5%;
   color: #EEEEEE;
